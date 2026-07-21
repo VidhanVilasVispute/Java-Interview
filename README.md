@@ -133,6 +133,7 @@
 108. How does the @Override annotation influence method overriding?
 109. What happens if a subclass overrides a method with different throws clause?
 110. What happens if a superclass method is overridden by more than one subclass?
+111.  Can we override a private method?
 
 ### 2.7 Interfaces & Abstract Classes
 111. What is an abstract class and an abstract method?
